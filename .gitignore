@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+
+# Generated debate texts and contexts
+debata_*.txt
+ostatni_kontekst.txt
+devopsdb1.txt
